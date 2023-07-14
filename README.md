@@ -1,4 +1,4 @@
-(<a href="https://ibb.co/0t4L5fW"><img src="https://i.ibb.co/9tK0Pqf/github-header-image.png" alt="github-header-image" border="0"></a>)
+<a href="https://ibb.co/0t4L5fW"><img src="https://i.ibb.co/9tK0Pqf/github-header-image.png" alt="github-header-image" border="0"></a>
 ### Hi there 👋, My name is Rahul
 
 Rahul is a computer science graduate who is eager to start his career as a **Web Developer**.
